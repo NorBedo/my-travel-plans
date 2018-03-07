@@ -1,1 +1,4 @@
 hi this me trying to do some changes here to see if can make commits on GitHub
+the second change to this file is to test git fetch origin/master
+git fitch will update local repo but does not merge new to changes to the master branch
+git pull will automatically merge master branch with origin/master
